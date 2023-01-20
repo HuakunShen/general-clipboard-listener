@@ -1,3 +1,10 @@
+> This project is moved to CrossCopy. https://github.com/CrossCopy/clipboard
+
+> This repo will be not be maintained and will be archived.
+
+> New NPM Package: https://www.npmjs.com/package/@crosscopy/clipboard
+
+
 # General Clipboard Listener
 
 > A Cross-Platform clipboard listener that listens for both text and image (screenshots).
